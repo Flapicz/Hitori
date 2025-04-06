@@ -1,1 +1,1 @@
-# Hitori
+Hitori logic game written in Java using also Swing and AWT. Features include a graphical interface, board generation, 3 different difficulties, board saving and loading through text files, result checking.
